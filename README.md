@@ -8,7 +8,9 @@ Fractals visualisation using time-escape algorithm and parallel computing
 
 Use make to build project.  
 
-Usage:	./fractol [option]  
+### Usage:	
+```
+./fractol [option]  
 	mandelbrot  
 	julia  
 	multi_julia  
@@ -17,7 +19,7 @@ Usage:	./fractol [option]
 	compass  
 	mandelbar  
 	orth_mandl  
-
+```
 ![mandelbrot](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/mandelbrot.png)
 ![julia1](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/julia1.png)
 ![julia2](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/julia2.png)
