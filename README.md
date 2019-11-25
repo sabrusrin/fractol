@@ -21,3 +21,4 @@ Usage:	./fractol [option]
 ![mandelbrot](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/mandelbrot.png)
 ![julia1](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/julia1.png)
 ![julia2](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/julia2.png)
+![usage](https://raw.githubusercontent.com/sabrusrin/fractol/master/images/usage.png)
