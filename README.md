@@ -1,5 +1,5 @@
 # fractol
-#### my nickname - chermist
+#### my 42 nickname - chermist
 
 Fractals visualisation using time-escape algorithm and parallel computing  
 Визуализация фракталов при помощи алгоритма time-escape и параллельных вычислений
