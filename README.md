@@ -4,7 +4,7 @@
 Fractals visualisation using time-escape algorithm and parallel computing  
 Визуализация фракталов при помощи алгоритма time-escape и параллельных вычислений
 
-(At the moment works on MacOS only)  
+##### (At the moment works on MacOS only)  
 
 Use make to build project.  
 
