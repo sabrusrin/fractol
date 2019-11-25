@@ -4,6 +4,8 @@
 Fractals visualisation using time-escape algorithm and parallel computing  
 Визуализация фракталов при помощи алгоритма time-escape и параллельных вычислений
 
+##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
+
 ##### (At the moment works on MacOS only)  
 
 Use make to build project.  
