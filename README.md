@@ -1,5 +1,6 @@
 # fractol
 #### my 42 nickname - chermist
+> Code written in norminette code style(github.com/sabrusrin/norme)
 
 Fractals visualisation using time-escape algorithm and parallel computing  
 Визуализация фракталов при помощи алгоритма time-escape и параллельных вычислений
