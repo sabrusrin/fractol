@@ -7,10 +7,22 @@ Fractals visualisation using time-escape algorithm and parallel computing
 
 ##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
 
-##### (At the moment works on MacOS only)  
+Use make to build project on macos.  
 
-Use make to build project.  
+#### If you want to build project on linux machine, follow these steps:
+```
+1) Update/upgrade your system:
+  apt-get update
+  apt-get upgrade
 
+2) Install the following packages:
+  apt-get install libx11-dev
+  apt-get install libxext-dev
+
+3) ./configure
+4) Use make command: make linux
+Hope it will work :)
+```
 ### Usage:	
 ```
 ./fractol [option]  
